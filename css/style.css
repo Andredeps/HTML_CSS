@@ -258,13 +258,15 @@ td, th {
 		width: auto;
 	}
 
-	h1 {
+    h1 {
 		text-align: center;
-	}
+		margin-bottom: 10px;
+	  }
 
-	nav {
+	  nav {
 		position: static;
-	}
+		text-align: center;
+	  }
 
 	.lista-beneficios, .imagem-beneficios {
 		width: 100%;
